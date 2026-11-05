@@ -14,18 +14,6 @@ nothing else. It lives here because the
 [kartl](https://github.com/johanndrews/kartl) app ships it, and because
 CC BY-SA 4.0 puts the resulting index under CC BY-SA 4.0 as well.
 
-## Status: no index files yet
-
-**This repository currently holds only `LICENSE` and this `README.md`.** The
-index files arrive with the first tagged release, which is published together
-with kartl 1.0.0. The repository was created ahead of that release so that the
-licence, the source chain and the modification notice are a matter of public
-record before any data is distributed — not afterwards.
-
-If you are looking for data and find none, nothing is broken and nothing is
-being withheld: there is no released kartl version yet whose index would belong
-here.
-
 ## License
 
 **The data in this repository is licensed under
